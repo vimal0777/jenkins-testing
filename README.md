@@ -16,7 +16,7 @@ Or with HTTPS:
 
 	~$ git clone https://github.com/awslabs/eb-tomcat-snakes.git
 
-Run ``build.sh`` to compile the web app and create a WAR file (OS X or Linux): #dffd
+Run ``build.sh`` to compile the web app and create a WAR file (OS X or Linux): #323
 
 	~$ cd eb-tomcat-snakes
 	~/eb-tomcat-snakes$ ./build.sh
